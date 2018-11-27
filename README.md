@@ -42,4 +42,5 @@ A sample IHC Image is in "Scripts_SampleData" folder.
 	Naive Bayes scatter plot.pdf : scatter plot of likelihood being synapse and noise.
 9. Run "6_find_synapse_maturation.R" This script analyzes the maturation of detected synapses. Mature synapse numbers will be exported in "log_mature" directory. Similar files are exported as find_synapse.R script, except they have "maturation" at the bottom of the file names.
 
+Published 2018 November 1
 made by Ryutaro Akiba and Take Matsuyama
