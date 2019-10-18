@@ -1,4 +1,6 @@
 Contents
+QUANTOS scripts for ribbon synapse analysis. QUANTOS performs a Naïve Bayes analysis of HC images stained for pre and post synaptic markers of ribbon synapse. A sample image is provided to run the analysis based on our training data.  
+
 QUANTOS scripts for generating training data are contained in this "Scripts_Trainingdata" folder.
 In "Scripts_Sampledata" folder, pdf used in QUANTOS manuscript is already there.
 You only need to run this script when you want to generate PDFs from different training data.
