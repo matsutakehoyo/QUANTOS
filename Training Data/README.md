@@ -22,15 +22,16 @@ Also, please make sure that following plug-ins and packages are installed:
 	https://imagej.net/RATS:_Robust_Automatic_Threshold_Selection
 
 [R Studio packages]
-	1,MASS
-	2,grid
-	3,gridExtra
-	4,ks
-	5,plyr
-	6,tidyverse
-	7,wesanderson
-	8,propagate
-	9,bde
+	1, MASS
+	2, grid
+	3, gridExtra
+	4, ks
+	5, plyr
+	6, tidyverse
+	7, wesanderson
+	8, propagate
+	9, bde
+	10, HDInterval
 
 
 Sample preparation
